@@ -30,5 +30,5 @@ Este directorio contiene todo el código de base que se entrega para el funciona
 
 INFORMACIÓN DEL GRUPO:
 
-Jose Luis Tavera Ruiz jl.tavera@uniandes.edu.co
-Juan Diego Yepes Parra j.yepes@uniandes.edu.co 202022391
+Jose Luis Tavera Ruiz - jl.tavera@uniandes.edu.co - 201821999
+Juan Diego Yepes Parra - j.yepes@uniandes.edu.co - 202022391
